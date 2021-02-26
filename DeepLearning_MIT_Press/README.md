@@ -5,7 +5,7 @@
   - Aaron Courville
 
 ## Path through the book
-![Book Organization](./imgs/book_organization.png)
+![Book Organization](imgs/book_organization.png)
 
 
 ## Reference
