@@ -5,7 +5,7 @@
   - Aaron Courville
 
 ## Path through the book
-<img src="imgs/book_organization.png"/>
+<img src="https://raw.githubusercontent.com/piyush2896/100DaysOfMLCode/main/DeepLearning_MIT_Press/imgs/book_organization.PNG"/>
 
 
 ## Reference
